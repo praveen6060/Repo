@@ -1,1 +1,2 @@
 written some lines in files
+private int salary;
